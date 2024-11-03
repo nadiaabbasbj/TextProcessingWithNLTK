@@ -2,10 +2,15 @@ Text Processing and Tokenization with NLTK
 This project demonstrates text tokenization and preprocessing using Python's Natural Language Toolkit (NLTK). The steps cover tokenizing text into individual words and performing additional preprocessing like lowercasing, stopword removal, special character removal, and lemmatization. These techniques are fundamental in preparing text data for NLP (Natural Language Processing) tasks.
 
 Table of Contents
+
 Requirements
+
 Setup
+
 Usage
+
 Explanation of Steps
+
 Sample Output
 
 Requirements
